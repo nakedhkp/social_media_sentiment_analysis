@@ -1,0 +1,16 @@
+platform,sentiment_category,count
+小红书,neutral,48
+小红书,positive,459
+小红书,negative,491
+微信,neutral,48
+微信,positive,478
+微信,negative,478
+微博,neutral,55
+微博,negative,452
+微博,positive,493
+抖音,neutral,50
+抖音,negative,455
+抖音,positive,488
+知乎,neutral,52
+知乎,negative,458
+知乎,positive,495

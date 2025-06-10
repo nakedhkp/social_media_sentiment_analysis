@@ -1,0 +1,5 @@
+﻿"sentiment_category","count","avg_score"
+"positive",2326,0.9087205923075115
+"negative",708,0.1748997319827585
+"neutral",553,0.5047791086096876
+"unknown",188,""

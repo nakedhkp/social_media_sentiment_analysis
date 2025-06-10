@@ -1,0 +1,4 @@
+sentiment_category,count,avg_score
+positive,2413,0.8934667258898944
+negative,2334,0.11360116226753442
+neutral,253,0.49526479840278625
